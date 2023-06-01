@@ -5,5 +5,6 @@
     width: 150px;
     line-height: 30px;
     margin-bottom: 30px;
-    border-radius: 15px; /* valor que define o grau de arredondamento */
-}  
+    border-radius: 20px;
+    background-color: #f2f2f2;
+}
